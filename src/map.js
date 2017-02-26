@@ -1,6 +1,5 @@
 import React from 'react';
 import ol from 'openlayers';
-import OLComponent from './ol-component';
 
 export default class Map extends React.Component {
   constructor (props) {

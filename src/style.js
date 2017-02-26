@@ -85,6 +85,7 @@ function buildImage(style) {
       return new ol.style.Icon(imageStyle);
     case 'regular-shape':
       return new ol.style.RegularShape(imageStyle);
+    default:
+      return null;
   }
 }
-

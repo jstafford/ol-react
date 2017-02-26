@@ -1,5 +1,5 @@
-/**
- * @file Property type validators for OpenLayers custom typedefs.
+/*
+ * Property type validators for OpenLayers custom typedefs.
  */
 
 import { PropTypes } from 'react'

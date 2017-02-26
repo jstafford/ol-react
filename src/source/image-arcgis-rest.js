@@ -1,7 +1,6 @@
 import React from 'react'
 import ol from 'openlayers'
 import OLComponent from '../ol-component'
-import * as interaction from '../interaction'
 
 export default class ImageArcGISRest extends OLComponent {
   constructor(props) {
